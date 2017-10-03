@@ -1,0 +1,5 @@
+mysql:
+  database: mysql://root@localhost:3306/migration_test
+
+postgres:
+  database: postgres://postgres@localhost:5432/migration_test

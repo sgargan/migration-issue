@@ -1,0 +1,17 @@
+name: migration-issue
+version: 0.1.0
+
+authors:
+  - Steve Gargan <steve.gargan@intercom.io>
+
+crystal: 0.23.1
+
+license: MIT
+
+dependencies:
+    jennifer:
+      github: imdrasil/jennifer.cr
+      version: 0.4.0
+
+    mysql:
+      github: crystal-lang/crystal-mysql
